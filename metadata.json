@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Prime: Echoes of 3026",
+  "description": "A 3D futuristic megacity exploration, combat, hacking, and mystery game set in Nexus Prime in the year 3026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
